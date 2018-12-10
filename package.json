@@ -22,6 +22,7 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^1.2.9",
-        "admin-lte": "^3.0.0-alpha.2"
+        "admin-lte": "^3.0.0-alpha.2",
+        "vue-router": "^3.0.2"
     }
 }
